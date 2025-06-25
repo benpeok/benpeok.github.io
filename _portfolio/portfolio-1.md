@@ -1,6 +1,6 @@
 ---
 title: "NBA Draft Pick Model"
-excerpt: "This Project predicts the top 10 picks of the NBA draft"
+excerpt: "This Project predicts the top 10 picks of the NBA draft: https://github.com/benpeok/topc-13-semester-project"
 collection: portfolio
 ---
 
