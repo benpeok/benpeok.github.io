@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ben Appel"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "East Lansing"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "appelbe1@msu.edu" 
 
   # Academic websites
   academia         : # URL
