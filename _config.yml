@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ben Appel"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Data Science major at MSU"
   location         : "East Lansing"
   employer         : "Michigan State University"
   uri              : # URL
