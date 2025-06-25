@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NBA Draft Pick Model"
+excerpt: "This Project predicts the top 10 picks of the NBA draft"
 collection: portfolio
 ---
 
